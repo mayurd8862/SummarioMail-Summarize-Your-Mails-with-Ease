@@ -1,0 +1,108 @@
+From : =?utf-8?Q?Alchemy=20University?= <university@alchemy.com>
+Subject : =?utf-8?Q?=F0=9F=9A=80=20Deploy=20a=20Smart=20Account=20on=20Arbitrum?=
+Content :
+🚀 Deploy a Smart Account on Arbitrum
+Include a Bundler, deploy the Account Factory and Paymaster contracts on Arbitrum Sepolia, and update the UserOp execute script to post transactions.
+View this email in your browser
+Deploy a Smart Account on Arbitrum using Solidity
+A 4-part series to demystify smart accounts by building and deploying one
+In this final video of the 4 part series, Account Abstraction from Scratch, we make adjustments to our project to:
+Include a Bundler
+Deploy the Account Factory contract
+Deploy the Paymaster contract
+Update the UserOp execute script
+Test the flow on Arbitrum Sepolia
+Part 4: Deploy a Smart Account on Arbitrum
+😢 Missed the rest of the series?
+No worries! You can find the
+full Account Abstraction course playlist
+on our Youtube channel!
+Ready to build?
+Get started with Account Abstraction today!
+Learn more
+Copyright © 2024 Alchemy Insights All rights reserved.
+Want to change how you receive these emails?
+You can
+update your preferences
+or
+unsubscribe from this list
+.
+------------------------------
+From : "DeepLearning.AI" <events@deeplearning.ai>
+Subject : [Upcoming Event] Turbocharge Your RAG Applications with Powerful
+ RAG Analytics
+Content :
+[Upcoming Event] Turbocharge Your RAG Applications with Powerful RAG Analytics
+Join in on our workshop to learn about RAG Applications and how to maximize RAG Analytics
+Dear Mayur,
+RAG (Retrieval-Augmented Generation) has emerged as a leading approach in developing generative AI applications. However, building error-free RAG systems comes with significant challenges, including maintaining chunk and document quality, refining prompts, and addressing output hallucinations.
+In this session, we'll distill our learnings from conversations with hundreds of AI teams utilizing RAG. Our focus will include:
+Overcoming the 5 major roadblocks in RAG application development
+Effective strategies for mitigating these 5 challenges
+Introducing 4 robust evaluation metrics to identify and rectify issues in your RAG system
+How to build production-ready RAG-powered applications 10x faster
+Can't attend live? Don't worry. For anyone registered, we will be sending out the recorded sessions afterward.
+Don't miss out! Tune in at 10AM PST on Thursday, February 22nd
+Register Now
+More upcoming events
+The DeepLearning.AI Team
+You've received this email because you are signed up to receive event updates from DeepLearning.AI
+DeepLearning.AI, 195 Page Mill Road, Suite 115, Palo Alto, CA 94306, United States
+Unsubscribe
+Manage preferences
+------------------------------
+From : Unstop Internships <noreply@dare2compete.news>
+Subject : Salesforce is hiring Technical Writer Interns at INR 30k/month, Apply
+ Now!
+Content :
+unstop
+Formerly
+Dare2Compete
+Technical Writer Internship
+Salesforce
+Stipend:
+INR
+30k/month(via glassdoor)
+Apply now
+Business Intelligent Engineering Internship
+Guidewire Software
+Stipend:
+INR
+30k/month(via glassdoor)
+Apply now
+Electronics and Embedded Systems Internship
+Ellipsol
+Stipend:
+INR
+15k/month
+Apply now
+Research & Development Trainee
+Valeo
+Stipend:
+INR
+20k/month(via glassdoor)
+Apply now
+Machine Learning Internship
+iTech Solutions
+Stipend:
+INR
+15k/month(via glassdoor)
+Apply now
+Explore more Internships
+Interview Prep
+Salesforce - Prepare for Interview
+Competition
+Hiring Challenges
+Quizzes
+Hackathons
+Jobs
+Stay updated
+Connect with us
+© 2024
+Unstop
+. All rights
+reserved.
+Unsubscribe
+|
+Helpdesk
+------------------------------
