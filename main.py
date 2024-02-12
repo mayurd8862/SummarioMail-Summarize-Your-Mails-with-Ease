@@ -1,32 +1,21 @@
 import imaplib
 import email
 import traceback 
-
+from bs4 import BeautifulSoup
 from langchain.chains.summarize import load_summarize_chain
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.llms import GooglePalm
+
+from app import FROM_EMAIL,FROM_PWD
 
 api_key = 'AIzaSyDoi9dYBVNne75DD4P-pce6Pf3i-Ol7Cbo'
 
 llm = GooglePalm(google_api_key=api_key, temperature=0.1)
 
-FROM_EMAIL = "mayurdabade1103@gmail.com"
-FROM_PWD = "psgn snfk ljee asxq" 
+# FROM_EMAIL = "mayurdabade1103@gmail.com"
+# FROM_PWD = "psgn snfk ljee asxq" 
 SMTP_SERVER = "imap.gmail.com" 
 SMTP_PORT = 993
-
-from bs4 import BeautifulSoup
-
-import imaplib
-import email
-import traceback 
-
-FROM_EMAIL = "mayurdabade1103@gmail.com"
-FROM_PWD = "psgn snfk ljee asxq" 
-SMTP_SERVER = "imap.gmail.com" 
-SMTP_PORT = 993
-
-from bs4 import BeautifulSoup
 
 def read_email_from_gmail(num):
     try:
