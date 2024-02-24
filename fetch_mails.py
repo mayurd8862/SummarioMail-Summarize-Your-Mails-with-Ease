@@ -4,7 +4,7 @@ import traceback
 import string
 # from credentials import FROM_EMAIL,FROM_PWD
 FROM_EMAIL = "mayurdabade1103@gmail.com"
-FROM_PWD = "psgn snfk ljee asxq" 
+FROM_PWD = "" 
 SMTP_SERVER = "imap.gmail.com" 
 SMTP_PORT = 993
 
